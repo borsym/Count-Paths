@@ -1,6 +1,6 @@
 # Count-Paths
 <h3>It will shows you after you click File->Count Path</h3>
-<b>You can take obstacle on the map</b>
+<b>You can take obstacles on the map</b>
 <br/>
 <center>After that you click Count Paths and you put another obstacle It will automatically updates <br/> There are 3 different map size availabel</center>
 
